@@ -1,0 +1,137 @@
+{
+  "common": {
+    "appName": "Digital Career Advisor",
+    "welcome": "Welcome to Digital Career Advisor",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "home": "Home",
+    "quiz": "Career Quiz",
+    "colleges": "Colleges",
+    "scholarships": "Scholarships",
+    "budget": "Budget Planner",
+    "timeline": "Timeline"
+  },
+  "app": {
+    "title": "Digital Career Advisor"
+  },
+  "nav": {
+    "home": "Home",
+    "colleges": "Colleges",
+    "scholarships": "Scholarships",
+    "aptitudeQuiz": "Career Quiz",
+    "timeline": "Timeline",
+    "budget": "Budget Planner",
+    "login": "Login",
+    "register": "Register",
+    "mentors": "Mentors"
+  },
+  "home": {
+    "heroTitle": "Plan Your Future Career",
+    "heroSubtitle": "Discover the right path for your education and career goals",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "featuresTitle": "Features",
+    "quizFeature": "Career Assessment Quiz",
+    "quizDescription": "Discover careers that match your interests and skills",
+    "collegesFeature": "College Finder",
+    "collegesDescription": "Find the perfect college for your career path",
+    "scholarshipsFeature": "Scholarship Opportunities",
+    "scholarshipsDescription": "Explore financial aid options for your education",
+    "budgetFeature": "Budget Planning",
+    "budgetDescription": "Plan your education expenses and savings"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "loginTitle": "Login to Your Account",
+    "registerTitle": "Create an Account",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "login": {
+    "title": "Login",
+    "form": {
+      "username": "Username",
+      "password": "Password",
+      "submit": "Login",
+      "loggingIn": "Logging in..."
+    },
+    "noAccount": "Don't have an account?",
+    "register": "Register here",
+    "forgotPassword": "Forgot Password?",
+    "error": {
+      "generic": "Login failed. Please try again."
+    }
+  },
+  "register": {
+    "title": "Create Account",
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "username": "Username",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "passwordHint": "Password must be at least 8 characters",
+      "submit": "Create Account",
+      "registering": "Creating account..."
+    },
+    "haveAccount": "Already have an account?",
+    "login": "Login here",
+    "error": {
+      "passwordMismatch": "Passwords do not match",
+      "generic": "Registration failed. Please try again."
+    }
+  },
+  "colleges": {
+    "title": "Colleges & Universities",
+    "search": "Search colleges by name...",
+    "allDistricts": "All Districts",
+    "viewDetails": "View Details",
+    "tuition": "Tuition"
+  },
+  "profile": {
+    "title": "My Profile",
+    "notSpecified": "Not specified",
+    "quickLinks": "Quick Links",
+    "links": {
+      "timeline": "Career Timeline",
+      "quizResults": "Quiz Results",
+      "budget": "Budget Planner"
+    },
+    "form": {
+      "title": "Edit Profile",
+      "district": "District",
+      "selectDistrict": "Select your district",
+      "educationLevel": "Education Level",
+      "selectEducationLevel": "Select your education level",
+      "interests": "Interests",
+      "interestsPlaceholder": "e.g., Programming, Design, Research...",
+      "careerGoals": "Career Goals",
+      "careerGoalsPlaceholder": "e.g., Software Engineer, Data Scientist...",
+      "save": "Save Profile",
+      "saving": "Saving..."
+    },
+    "success": {
+      "saved": "Profile saved successfully!"
+    },
+    "error": {
+      "fetchFailed": "Failed to load profile. Please try again.",
+      "saveFailed": "Failed to save profile. Please try again."
+    }
+  },
+  "footer": {
+    "about": "About Us",
+    "description": "Digital Career & Education Advisor platform designed to help J&K students find the best educational and career opportunities.",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "privacy": "Privacy Policy",
+    "connect": "Connect With Us",
+    "rights": "All rights reserved."
+  }
+}
